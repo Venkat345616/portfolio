@@ -208,7 +208,7 @@ body{
   width: 100%;
   height: 100%;
   object-fit: contain;
-  border-radius: 8px;
+  border-radius: 20px;
 }
 
 .about .content .col-right .content-title{

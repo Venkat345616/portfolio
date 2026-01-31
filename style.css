@@ -199,6 +199,8 @@ body{
   position: relative;
   width: 100%;
   height: 450px;
+  border: 0;
+  border-radius: 20px;
 }
 
 .about .content .col-left .img-card img{
@@ -208,8 +210,7 @@ body{
   width: 100%;
   height: 100%;
   object-fit: contain;
-  border: 0;
-  border-radius: 20px;
+  
 }
 
 .about .content .col-right .content-title{
